@@ -1,0 +1,2 @@
+/Users/ayodelegabriel/StudioProjects/gabriel_kobipay_assessment/android/app/.cxx/Debug/456w3769/x86_64/CMakeFiles/edit_cache.dir
+/Users/ayodelegabriel/StudioProjects/gabriel_kobipay_assessment/android/app/.cxx/Debug/456w3769/x86_64/CMakeFiles/rebuild_cache.dir
